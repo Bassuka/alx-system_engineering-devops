@@ -1,2 +1,2 @@
 #!/bin/bash
-unlink /tmp/my_first_direcotry/betty
+ls /tmp/my_first_direcotry/betty
