@@ -1,0 +1,2 @@
+#!/bin/bash
+ghmod g+x, o+R hello
